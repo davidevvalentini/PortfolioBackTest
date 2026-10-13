@@ -1,0 +1,16 @@
+# Dati locali generati dall'app (cache prezzi + portafogli salvati)
+price_cache.sqlite3
+*.sqlite3
+*.sqlite3-journal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS / editor
+.DS_Store
+__MACOSX/
+.idea/
+.vscode/

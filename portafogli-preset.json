@@ -1,0 +1,350 @@
+[
+  {
+    "rebalance": "none",
+    "riskFree": 0,
+    "initialBalance": 10000,
+    "currencySymbol": "€",
+    "granularity": "D",
+    "timeframe": {
+      "preset": "5Y",
+      "start": null,
+      "end": null
+    },
+    "name": "Conservativo",
+    "holdings": [
+      {
+        "isin": "IE00B4L5Y983",
+        "weight": 4.0,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "IE00BJ0KDR00",
+        "weight": 2.0,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "IE00B6YX5D40",
+        "weight": 5.0,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "IE00B5M1WJ87",
+        "weight": 5.0,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "IE00BJ38QD84",
+        "weight": 2.0,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "LU0378818131",
+        "weight": 25.0,
+        "assetClass": "Obbligazionario"
+      },
+      {
+        "isin": "IE00B9M6SJ31",
+        "weight": 25.0,
+        "assetClass": "Obbligazionario"
+      },
+      {
+        "isin": "IE00B14X4Q57",
+        "weight": 10.0,
+        "assetClass": "Obbligazionario"
+      },
+      {
+        "isin": "IE00B3F81R35",
+        "weight": 5.0,
+        "assetClass": "Obbligazionario"
+      },
+      {
+        "isin": "IE00BNH72088",
+        "weight": 6.0,
+        "assetClass": "Obbligazionario"
+      },
+      {
+        "isin": "IE00BDVJF675",
+        "weight": 5.0,
+        "assetClass": "Alternativi"
+      },
+      {
+        "isin": "IE00B1FZS350",
+        "weight": 6.0,
+        "assetClass": "Immobiliare"
+      }
+    ],
+    "reportContent": {
+      "profileLabel": "Profilo prudente",
+      "heroSubtitle": "Un portafoglio multi-asset progettato per privilegiare la stabilità, la diversificazione e la protezione del capitale, mantenendo una partecipazione selettiva ai mercati azionari.",
+      "inSintesiLead": "La struttura combina una componente obbligazionaria predominante con una quota azionaria diversificata e una componente alternativa. L'obiettivo è contenere la volatilità e rendere più regolare l'esperienza dell'investitore rispetto a un portafoglio fortemente esposto alle azioni.",
+      "avgCost": 0.13,
+      "riskLabelOverride": "BASSO",
+      "returnLabelOverride": "BASSO",
+      "assetAllocationLead": "Il baricentro del portafoglio è volutamente orientato alla componente obbligazionaria. La quota azionaria è distribuita tra mercati globali, USA, dividendi e small cap; la componente alternativa comprende convertibili, preferred e real estate.",
+      "whyLead": "La diversificazione non elimina il rischio, ma mira a evitare che una singola area di mercato determini da sola il risultato complessivo.",
+      "principles": [
+        {
+          "icon": "◈",
+          "title": "Diversificazione",
+          "text": "Esposizioni geografiche e fattoriali differenti, con strumenti obbligazionari governativi, corporate e a breve scadenza."
+        },
+        {
+          "icon": "↔",
+          "title": "Controllo della volatilità",
+          "text": "La prevalenza di obbligazioni è pensata per attenuare l'impatto delle fasi negative dei mercati azionari."
+        },
+        {
+          "icon": "＋",
+          "title": "Fonti di rendimento",
+          "text": "Dividendi, cedole e componenti diversificanti affiancano il contributo della crescita azionaria."
+        }
+      ],
+      "profileParagraph1": "Il portafoglio è coerente con un investitore che ricerca una soluzione prudente: pensione o prossimità alla pensione, necessità di preservare il capitale e preferenza per una traiettoria meno volatile rispetto a un portafoglio azionario.",
+      "profileParagraph2": "La componente obbligazionaria costituisce il principale elemento di stabilizzazione; le esposizioni azionarie e alternative sono mantenute per offrire potenziale di crescita e diversificazione nel medio-lungo periodo.",
+      "keyMessageQuote": "Crescita con priorità alla stabilità.",
+      "keyMessageCaption": "Una soluzione pensata per chi non vuole rinunciare del tutto al rendimento dei mercati, ma attribuisce grande valore alla gestione del rischio."
+    }
+  },
+  {
+    "rebalance": "none",
+    "riskFree": 0,
+    "initialBalance": 10000,
+    "currencySymbol": "€",
+    "granularity": "D",
+    "timeframe": {
+      "preset": "5Y",
+      "start": null,
+      "end": null
+    },
+    "name": "Moderato",
+    "holdings": [
+      {
+        "isin": "IE00B4L5Y983",
+        "weight": 14.0,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "IE00BJ0KDR00",
+        "weight": 6.0,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "IE00B6YX5D40",
+        "weight": 10.0,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "IE00B5M1WJ87",
+        "weight": 10.0,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "IE00BJ38QD84",
+        "weight": 3.0,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "IE00B0M63177",
+        "weight": 4.0,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "LU0378818131",
+        "weight": 15.0,
+        "assetClass": "Obbligazionario"
+      },
+      {
+        "isin": "IE00B9M6SJ31",
+        "weight": 13.0,
+        "assetClass": "Obbligazionario"
+      },
+      {
+        "isin": "IE00B14X4Q57",
+        "weight": 6.0,
+        "assetClass": "Obbligazionario"
+      },
+      {
+        "isin": "IE00B66F4759",
+        "weight": 6.0,
+        "assetClass": "Obbligazionario"
+      },
+      {
+        "isin": "LU1829218749",
+        "weight": 1.0,
+        "assetClass": "Materie Prime"
+      },
+      {
+        "isin": "DE000A1E0HR8",
+        "weight": 2.0,
+        "assetClass": "Oro"
+      },
+      {
+        "isin": "IE00BDVJF675",
+        "weight": 5.0,
+        "assetClass": "Alternativi"
+      },
+      {
+        "isin": "IE00B1FZS350",
+        "weight": 5.0,
+        "assetClass": "Immobiliare"
+      }
+    ],
+    "reportContent": {
+      "profileLabel": "Profilo moderato",
+      "heroSubtitle": "Una soluzione multi-asset orientata alla crescita, con una componente azionaria significativa bilanciata da obbligazioni e asset reali. L'obiettivo è ricercare un rendimento superiore a quello di un profilo prudente accettando una maggiore variabilità dei risultati.",
+      "inSintesiLead": "Il portafoglio aumenta il contributo delle azioni rispetto a una soluzione conservativa, introducendo anche esposizione ai mercati emergenti, high yield, materie prime e oro. La componente obbligazionaria rimane comunque rilevante e contribuisce all'equilibrio complessivo.",
+      "avgCost": 0.14,
+      "riskLabelOverride": "MEDIO",
+      "returnLabelOverride": "MEDIO",
+      "assetAllocationLead": "Il 47% in azioni offre il principale motore di crescita; il 40% in obbligazioni mira a contenere la volatilità; il 13% in componenti alternative amplia le fonti di diversificazione.",
+      "whyLead": "Il profilo moderato cerca un compromesso tra crescita e controllo del rischio, distribuendo il capitale tra diverse fonti di rendimento.",
+      "principles": [
+        {
+          "icon": "↗",
+          "title": "Crescita",
+          "text": "La componente azionaria è diversificata tra mondo, USA, dividendi, small cap e mercati emergenti."
+        },
+        {
+          "icon": "◈",
+          "title": "Bilanciamento",
+          "text": "Il 40% obbligazionario comprende governativi globali, corporate, breve termine e high yield."
+        },
+        {
+          "icon": "◆",
+          "title": "Diversificazione reale",
+          "text": "Oro, materie prime, preferred e immobiliare aggiungono esposizioni con caratteristiche differenti."
+        }
+      ],
+      "profileParagraph1": "La soluzione è pensata per un investitore disposto ad accettare una volatilità moderata e temporanee perdite di capitale, con l'obiettivo di ottenere nel medio-lungo periodo un rendimento più elevato rispetto a un portafoglio prevalentemente obbligazionario. Adatto per un investitore che si trova a circa 10 o 15 anni dall'età pensionistica.",
+      "profileParagraph2": "La costruzione combina esposizione alla crescita, distribuzione dei dividendi, credito, mercati emergenti e asset reali. L'inserimento di oro e materie prime contribuisce inoltre a diversificare le fonti di rischio.",
+      "keyMessageQuote": "Più crescita, con un equilibrio consapevole del rischio.",
+      "keyMessageCaption": "Una soluzione per chi cerca un compromesso tra partecipazione ai mercati e disciplina nella gestione della volatilità."
+    }
+  },
+  {
+    "rebalance": "none",
+    "riskFree": 0,
+    "initialBalance": 10000,
+    "currencySymbol": "€",
+    "granularity": "D",
+    "timeframe": {
+      "preset": "5Y",
+      "start": null,
+      "end": null
+    },
+    "name": "Conservativo+",
+    "holdings": [
+      {
+        "isin": "IE00B4L5Y983",
+        "weight": 9.0,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "IE00BJ0KDR00",
+        "weight": 4.0,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "IE00B6YX5D40",
+        "weight": 7.5,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "IE00B5M1WJ87",
+        "weight": 7.5,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "IE00BJ38QD84",
+        "weight": 2.5,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "IE00B0M63177",
+        "weight": 2.0,
+        "assetClass": "Azionario"
+      },
+      {
+        "isin": "LU0378818131",
+        "weight": 20.0,
+        "assetClass": "Obbligazionario"
+      },
+      {
+        "isin": "IE00B9M6SJ31",
+        "weight": 19.0,
+        "assetClass": "Obbligazionario"
+      },
+      {
+        "isin": "IE00B14X4Q57",
+        "weight": 8.0,
+        "assetClass": "Obbligazionario"
+      },
+      {
+        "isin": "IE00B66F4759",
+        "weight": 3.0,
+        "assetClass": "Obbligazionario"
+      },
+      {
+        "isin": "IE00B3F81R35",
+        "weight": 2.5,
+        "assetClass": "Obbligazionario"
+      },
+      {
+        "isin": "IE00BNH72088",
+        "weight": 3.0,
+        "assetClass": "Obbligazionario"
+      },
+      {
+        "isin": "LU1829218749",
+        "weight": 0.5,
+        "assetClass": "Materie Prime"
+      },
+      {
+        "isin": "DE000A1E0HR8",
+        "weight": 1.0,
+        "assetClass": "Oro"
+      },
+      {
+        "isin": "IE00BDVJF675",
+        "weight": 5.0,
+        "assetClass": "Alternativi"
+      },
+      {
+        "isin": "IE00B1FZS350",
+        "weight": 5.5,
+        "assetClass": "Immobiliare"
+      }
+    ],
+    "reportContent": {
+      "profileLabel": "Profilo conservativo+",
+      "heroSubtitle": "Un portafoglio multi-asset che mantiene una forte componente obbligazionaria, aumentando rispetto al profilo conservativo la partecipazione ai mercati azionari e alle fonti di rendimento diversificanti.",
+      "inSintesiLead": "La struttura mantiene una componente obbligazionaria predominante, ma introduce una maggiore esposizione azionaria e una gamma più ampia di fonti di rendimento. L'obiettivo è ricercare un equilibrio intermedio tra stabilità e crescita.",
+      "avgCost": 0.2,
+      "riskLabelOverride": "MEDIO-BASSO",
+      "returnLabelOverride": "MEDIO-BASSO",
+      "assetAllocationLead": "Il baricentro rimane obbligazionario, ma la quota di crescita è più ampia rispetto al Conservativo. La componente azionaria è distribuita tra mercati globali, USA, dividendi, small cap ed emergenti; le componenti alternative aggiungono ulteriori fonti di diversificazione.",
+      "whyLead": "La diversificazione non elimina il rischio, ma mira a evitare che una singola area di mercato determini da sola il risultato complessivo. Il profilo Conservativo+ amplia la partecipazione alla crescita mantenendo una base obbligazionaria significativa.",
+      "principles": [
+        {
+          "icon": "◈",
+          "title": "Diversificazione",
+          "text": "Esposizioni geografiche e fattoriali differenti, con strumenti azionari globali, USA, dividendi, small cap ed emergenti."
+        },
+        {
+          "icon": "↔",
+          "title": "Controllo della volatilità",
+          "text": "La prevalenza di obbligazioni è pensata per attenuare l'impatto delle fasi negative dei mercati azionari, pur lasciando più spazio alla crescita."
+        },
+        {
+          "icon": "＋",
+          "title": "Fonti di rendimento",
+          "text": "Dividendi, cedole, credito, convertibili, preferred e asset reali affiancano il contributo della crescita azionaria."
+        }
+      ],
+      "profileParagraph1": "Il portafoglio è coerente con un investitore che ricerca un compromesso tra stabilità e crescita: una forte componente obbligazionaria affiancata da una quota azionaria più significativa e da componenti diversificanti.",
+      "profileParagraph2": "La componente obbligazionaria costituisce il principale elemento di stabilizzazione; le esposizioni azionarie e alternative aumentano il potenziale di crescita e diversificazione rispetto al profilo Conservativo.",
+      "keyMessageQuote": "Un equilibrio più dinamico tra crescita e stabilità.",
+      "keyMessageCaption": "Una soluzione pensata per chi desidera maggiore partecipazione ai mercati rispetto al Conservativo, mantenendo una significativa disciplina nella gestione del rischio."
+    }
+  }
+]
