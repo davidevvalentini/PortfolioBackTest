@@ -17,6 +17,7 @@ PortfolioBackTest/
 ├── requirements.txt         # dipendenze Python
 ├── portafogli-preset.json   # portafogli di esempio da importare dall'app
 ├── .gitignore
+├── LICENSE                  # MIT
 └── README.md
 ```
 
@@ -119,3 +120,7 @@ tieni presente che piccole differenze sono normali e dipendono da:
 
 Strumento a scopo informativo e di studio. I risultati storici non sono
 indicativi di quelli futuri e non costituiscono consulenza finanziaria.
+
+## Licenza
+
+Rilasciato sotto licenza [MIT](LICENSE).
